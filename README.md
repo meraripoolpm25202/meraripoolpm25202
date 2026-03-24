@@ -1,7 +1,7 @@
 # ¡Hola! Soy Merari Pool Euan ✋
 
 ## 👧 Sobre mi
-Soy estudiante de 2do semestre de la carrera técnica en **Programacióm**. Actualmente estoy sumergiéndome en el mundo del desarrollo de software, enfocándome en construir bases sólidas en lógica y buenas prácticas.
+Soy estudiante de 2do semestre de la carrera técnica en **Programación**. Actualmente estoy sumergiéndome en el mundo del desarrollo de software, enfocándome en construir bases sólidas en lógica y buenas prácticas.
 
 -🏫 Colegio de Estudios Cientifícos y Tecnológicos del Estado de Campeche plantel Pomuch.
 -📚 Actualmente aprendiendo: **Python** y **Gestión de versiones con Git y GitHub**
